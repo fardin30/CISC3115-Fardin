@@ -1,0 +1,69 @@
+fardi@Fardin MINGW64 /
+$ cd "C:\Users\fardi\Desktop\Fall 2023\CISC 3115\Git"
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git
+$ git clone ~https://github.com/fardin30/CISC3115-Fardin/tree/main~
+Cloning into 'main~'...
+fatal: protocol '~https' is not supported
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git
+$ git clone https://github.com/fardin30/CISC3115-Fardin
+Cloning into 'CISC3115-Fardin'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git
+$ cd CISC3115_fardin
+bash: cd: CISC3115_fardin: No such file or directory
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git
+$ cd CISC3115-Fardin
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ mkdir assignment-1
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ mv assignment-1 assignment1
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ mkdir javacode
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ rm -r javacode
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ mkdir javacode
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ cd javacode
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin/javacode (main)
+$ code HelloWorld.java
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin/javacode (main)
+$ cd ..
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ echo %cd%
+%cd%
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ cd "C:\Users\fardi\Desktop\Fall 2023\CISC 3115\Git\CISC3115-Fardin\javacode"
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin/javacode (main)
+$ cd ..
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ cd javacode
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin/javacode (main)
+$ cd ..
+
+fardi@Fardin MINGW64 ~/Desktop/Fall 2023/CISC 3115/Git/CISC3115-Fardin (main)
+$ dir
+README.md  assignment1  javacode
+
+
